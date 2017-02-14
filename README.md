@@ -21,6 +21,10 @@ var matrix = [
 
 the result will be the following
 
+![alt text][matrix]
+
+[matrix]: https://github.com/Ferie/Spiral-Loop/blob/master/Spiral-Loop.jpg "Spiral Loop example"
+
 ```javascript
 /* Output */
 
