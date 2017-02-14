@@ -14,6 +14,7 @@ spiralLoop(endRow, endColumn, matrix);
 
 
 /**
+ * Function that loops in a spiral way trough a given matrix (clockwise)
  */
 function spiralLoop(endRow, endColumn, matrix) {
     var i, startRow = 0, startColumn = 0, resultString = '';
