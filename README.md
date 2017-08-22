@@ -2,7 +2,7 @@
 
 This JavaScript function loops in a spiral way trough a given matrix (counterclockwise).
 
-###Example
+### Example
 
 E.g. if you are passing a matrix like this one:
 
